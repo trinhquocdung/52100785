@@ -1,0 +1,17 @@
+C:\Baitap\ChangePass\ChangePass\bin\Debug\net6.0-windows\ChangePass.exe
+C:\Baitap\ChangePass\ChangePass\bin\Debug\net6.0-windows\ChangePass.deps.json
+C:\Baitap\ChangePass\ChangePass\bin\Debug\net6.0-windows\ChangePass.runtimeconfig.json
+C:\Baitap\ChangePass\ChangePass\bin\Debug\net6.0-windows\ChangePass.dll
+C:\Baitap\ChangePass\ChangePass\bin\Debug\net6.0-windows\ChangePass.pdb
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.csproj.AssemblyReference.cache
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.Form1.resources
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.csproj.GenerateResource.cache
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.AssemblyInfoInputs.cache
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.AssemblyInfo.cs
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.csproj.CoreCompileInputs.cache
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.dll
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\refint\ChangePass.dll
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.pdb
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ChangePass.genruntimeconfig.cache
+C:\Baitap\ChangePass\ChangePass\obj\Debug\net6.0-windows\ref\ChangePass.dll
